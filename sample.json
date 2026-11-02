@@ -1,0 +1,1 @@
+{"dateReleased":"2026-10-24T00:00:00Z","vulnerabilities":[{"cveID":"CVE-2026-12345","vendorProject":"ExampleVendor","product":"ExampleApp","vulnerabilityName":"Example Vulnerability","dateAdded":"2026-10-24","shortDescription":"Demo record only, not a real vulnerability.","requiredAction":"Check vendor guidance","dueDate":"2026-11-01","knownRansomwareCampaignUse":"Unknown"}]}
